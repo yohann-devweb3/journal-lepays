@@ -68,7 +68,15 @@ L'intérêt du journal local "Le Pays" est d'informer la population locale sur l
 
 - Profil : Claire est une jeune étudiante passionnée par les nouvelles technologies et la communication digitale. Elle est très active sur les réseaux sociaux et adore découvrir de nouveaux sites web. Elle est souvent à la recherche d'informations sur les évènements sportifs et culturels de sa région et souhaite rester informée des dernières actualités. Claire utilise principalement son smartphone pour naviguer sur internet et attend donc un site web facilement accessible depuis son téléphone. Elle apprécie les designs modernes et épurés et souhaite pouvoir facilement naviguer sur le site web pour trouver les informations qu'elle recherche. Claire n'a pas beaucoup de connaissances en développement web, mais elle est sensible aux critères d'accessibilité et de référencement naturel.
 
+## Arborescence du site
 
+- Accueil
+    - Activités culturelles
+        -  vue détaillé d'article 
+    - Activités sportives
+        -  vue détaillé d'article 
+    - Évenements à venir
+        -  vue détaillé d'article 
 
 
 
