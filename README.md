@@ -1,5 +1,5 @@
 # journal-lepays
-création de site wordpress d'un journal local
+création de site wordpress du journal local "Le Pays"
 
 ## Installation 
 - Installer XAMP sur votre disque c:/
