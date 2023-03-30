@@ -16,4 +16,4 @@ Création de site wordpress du journal local "Le Pays" ( avec thème personnalis
     
 ### Plugins installés et actifs : 
   - WPS Hide Login =>
-    - url de connexion : `http:localhost/lepays/login`
+    - url de connexion pour le panneau d'administration : `http:localhost/lepays/login`
