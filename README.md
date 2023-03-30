@@ -13,5 +13,5 @@ création de site wordpress du journal local "Le Pays"
     id : admin
     mdp : lepays2023!!!*
     
-### Plugins installés : 
+### Plugins installés et actifs : 
   - WPS Hide Login
