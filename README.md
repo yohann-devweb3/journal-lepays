@@ -1,5 +1,5 @@
 # journal-lepays
-création de site wordpress du journal local "Le Pays"
+Création de site wordpress du journal local "Le Pays" ( avec thème personnalisé sous Gutemberg)
 
 ## Installation 
 - Installer XAMP sur votre disque c:/
