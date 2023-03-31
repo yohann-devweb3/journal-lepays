@@ -19,3 +19,6 @@ Création de site wordpress du journal local "Le Pays" ( avec thème personnalis
       - url de connexion pour le panneau d'administration : `http:localhost/lepays/login`
   - Yoast SEO =>
       - url du tableau de bord : `http://localhost/lepays/wp-admin/admin.php?page=wpseo_dashboard`
+### Site déployé
+
+Actuellement le site est déployé sur infinityfree : `http://lepays.epizy.com/lepays/`
