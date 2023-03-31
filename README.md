@@ -22,3 +22,7 @@ Création de site wordpress du journal local "Le Pays" ( avec thème personnalis
 ### Site déployé
 
 Actuellement le site est déployé sur infinityfree : `http://lepays.epizy.com/lepays/`
+
+### Repo
+
+Le repo contient aussi les maquettes en JPEG 
