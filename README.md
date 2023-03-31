@@ -23,6 +23,14 @@ Création de site wordpress du journal local "Le Pays" ( avec thème personnalis
 ### Site déployé
 
 Actuellement le site est déployé sur infinityfree : `http://lepays.epizy.com/lepays/`
+#### Pour récupérer via FTP :
+- Télécharger et installer filezilla ftp client
+  Connectez-vous avec ces paramètres :
+      - id : epiz_33910724
+      - mot de passe : SNhNejQJxS1Gln
+      - serveur ftp : ftpupload.net
+      - port : 21
+ puis déplacer le dossier "lepays" depuis la zone "site distant" vers votre ordinateur : `C:\xampp\htdocs`
 
 ### Repo
 
